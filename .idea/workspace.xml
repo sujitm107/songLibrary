@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +61,12 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1XulaHTulaNS1oQiwRdfZIknBG2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -74,10 +83,12 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -174,6 +185,7 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1581903926443" duration="203000" />
+      <workItem from="1581904946898" duration="149000" />
     </task>
     <servers />
   </component>
@@ -185,17 +197,40 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581904090701">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="215" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581904997682">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="215" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581904997682" />
     <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1581904090701" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1581904132895">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="673" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581905034559">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="673" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581905034559" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1581905102628">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581905102628" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1581905102623">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581905102623" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1581905102616">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581905102616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1581905102626">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581905102626" />
+    <state x="243" y="0" key="SettingsEditor" timestamp="1581905043747">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="243" y="0" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581905043747" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1581904132895" />
-    <state x="397" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581903929116">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="463" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1581904947811">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="397" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1581903929116" />
+    <state x="463" y="300" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1581904947811" />
   </component>
 </project>
