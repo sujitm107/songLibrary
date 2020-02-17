@@ -198,6 +198,10 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1581904090701" />
+    <state x="404" y="130" key="CommitChangelistDialog2" timestamp="1581906266323">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="404" y="130" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1581906266322" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1581906209706">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -222,9 +226,9 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="397" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1581903929116" />
-    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581906246558">
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581906332316">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581906246558" />
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581906332316" />
   </component>
 </project>
